@@ -1,0 +1,50 @@
+train/cow/cow_1.jpg
+train/cow/cow_2.jpg
+train/cow/cow_3.jpg
+train/cow/cow_4.jpg
+train/cow/cow_5.jpg
+train/dining table/dining_table_1.jpg
+train/dining table/dining_table_2.jpg
+train/dining table/dining_table_3.jpg
+train/dining table/dining_table_4.jpg
+train/dining table/dining_table_5.jpg
+train/dog/dog_1.jpg
+train/dog/dog_2.jpg
+train/dog/dog_3.jpg
+train/dog/dog_4.jpg
+train/dog/dog_5.jpg
+train/horse/horse_1.jpg
+train/horse/horse_2.jpg
+train/horse/horse_3.jpg
+train/horse/horse_4.jpg
+train/horse/horse_5.jpg
+train/motorcycle/motorcycle_1.jpg
+train/motorcycle/motorcycle_2.jpg
+train/motorcycle/motorcycle_3.jpg
+train/motorcycle/motorcycle_4.jpg
+train/motorcycle/motorcycle_5.jpg
+train/person/person_1.jpg
+train/person/person_2.jpg
+train/person/person_3.jpg
+train/person/person_4.jpg
+train/person/person_5.jpg
+train/potted plant/potted_plant_1.jpg
+train/potted plant/potted_plant_2.jpg
+train/potted plant/potted_plant_3.jpg
+train/potted plant/potted_plant_4.jpg
+train/potted plant/potted_plant_5.jpg
+train/sheep/sheep_1.jpg
+train/sheep/sheep_2.jpg
+train/sheep/sheep_3.jpg
+train/sheep/sheep_4.jpg
+train/sheep/sheep_5.jpg
+train/train/train_1.jpg
+train/train/train_2.jpg
+train/train/train_3.jpg
+train/train/train_4.jpg
+train/train/train_5.jpg
+train/tv/tv_1.jpg
+train/tv/tv_2.jpg
+train/tv/tv_3.jpg
+train/tv/tv_4.jpg
+train/tv/tv_5.jpg
